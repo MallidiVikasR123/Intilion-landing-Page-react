@@ -1,7 +1,7 @@
 
 import { useState } from "react";
 import { ChevronRight, ChevronLeft } from "lucide-react";
-
+  
 const testimonials = [
   {
     id: 1,

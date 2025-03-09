@@ -1,4 +1,4 @@
-
+   
 import { Factory, Truck, Activity, Building2, Briefcase } from "lucide-react";
 
 const IndustryCard = ({ icon: Icon, title }: { icon: React.ElementType; title: string }) => {

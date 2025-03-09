@@ -1,6 +1,6 @@
 
 import { Star } from "lucide-react";
-
+   
 const StatsSection = () => {
   return (
     <section className="border-t border-gray-200 py-12 bg-white">

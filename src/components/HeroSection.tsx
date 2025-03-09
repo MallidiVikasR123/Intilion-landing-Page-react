@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
 import { useIsMobile } from "@/hooks/use-mobile";
-
+   
 const HeroSection = () => {
   const isMobile = useIsMobile();
 

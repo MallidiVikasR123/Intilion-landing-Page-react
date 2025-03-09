@@ -1,6 +1,6 @@
 
 import { DollarSign, Lightbulb, BookOpen, ArrowUpRight } from "lucide-react";
-
+    
 const WhatWeDo = () => {
   return (
     <section className="py-16 md:py-24 bg-black text-white">

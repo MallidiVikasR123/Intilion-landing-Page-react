@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Server, Users, ShieldCheck, Code, Smartphone, Cloud } from "lucide-react";
-
+   
 const SolutionCard = ({ 
   icon: Icon, 
   title, 

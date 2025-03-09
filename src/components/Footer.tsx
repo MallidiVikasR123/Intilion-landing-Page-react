@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Facebook, Twitter, Linkedin, Github, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
+   
 const Footer = () => {
   return (
     <footer className="bg-black text-white">

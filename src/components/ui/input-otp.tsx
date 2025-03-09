@@ -16,7 +16,7 @@ const InputOTP = React.forwardRef<
     )}
     className={cn("disabled:cursor-not-allowed", className)}
     {...props}
-  />
+  />   
 ))
 InputOTP.displayName = "InputOTP"
 
