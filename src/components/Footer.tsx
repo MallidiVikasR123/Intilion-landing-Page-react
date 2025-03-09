@@ -1,6 +1,5 @@
-
 import { Link } from "react-router-dom";
-import { Facebook, Twitter, Linkedin, GitHub, ExternalLink } from "lucide-react";
+import { Facebook, Twitter, Linkedin, Github, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Footer = () => {
@@ -107,7 +106,7 @@ const Footer = () => {
             <Linkedin className="w-5 h-5" />
           </a>
           <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
-            <GitHub className="w-5 h-5" />
+            <Github className="w-5 h-5" />
           </a>
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
             <Twitter className="w-5 h-5" />
